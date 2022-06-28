@@ -15,3 +15,14 @@
 .card {
     margin: 10px;
 }
+
+.card-body {
+    text-align: center;
+}
+
+.round-image {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: gray;
+}
