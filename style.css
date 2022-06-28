@@ -1,0 +1,26 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+}
+
+.row {
+    display: flex;
+    width: 1000px;
+    flex-wrap: wrap;
+}
+
+.col-md-4 {
+    flex: 33.3%;
+}
+
+.col-md-12 {
+    flex: 100%;
+}
+
+.col-md-6 {
+    flex: 50%;
+}
